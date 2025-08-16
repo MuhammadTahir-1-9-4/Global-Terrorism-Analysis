@@ -8,7 +8,7 @@ An interactive web application for analyzing the Global Terrorism Database (GTD)
 
 ## ✨ Live Demo
 
-### [**>> Try the live app here! <<**]([https://global-terrorism-analysis.streamlit.app/])
+### [**>> Try the live app here! <<**](https://global-terrorism-analysis.streamlit.app/)
 
 
 ![GTD Insight Demo GIF](demo.gif)
@@ -77,4 +77,4 @@ To run this project on your own machine, follow these steps:
 
 ## 👤 Contact
 
-Muhammad Tahir - [LinkedIn]([https://www.linkedin.com/in/muhammad-tahir-data/])
+Muhammad Tahir - [LinkedIn](https://www.linkedin.com/in/muhammad-tahir-data/)
