@@ -8,12 +8,10 @@ An interactive web application for analyzing the Global Terrorism Database (GTD)
 
 ## ✨ Live Demo
 
-### [**>> Try the live app here! <<**]([YOUR-STREAMLIT-APP-URL-HERE])
+### [**>> Try the live app here! <<**]([https://global-terrorism-analysis.streamlit.app/])
 
-*(Note: After deploying your app on Streamlit Cloud, replace the link above with your actual URL.)*
 
 ![GTD Insight Demo GIF](demo.gif)
-*(To create a GIF like this, you can use a free tool like ScreenToGif or Kap to record your screen and then add the `demo.gif` file to your repository.)*
 
 ---
 
@@ -31,7 +29,7 @@ An interactive web application for analyzing the Global Terrorism Database (GTD)
 
 This project is an end-to-end demonstration of a data analysis workflow, from cleaning a large dataset to deploying an interactive web application.
 
-- **Data Source:** The project utilizes the [Global Terrorism Database (GTD)](https://www.kaggle.com/datasets/START-Strategic-Affairs-Research-and-Partnerships/global-terrorism-database), a comprehensive open-source database of over 180,000 terrorist attacks.
+- **Data Source:** The project utilizes the [Global Terrorism Database (GTD)](https://www.kaggle.com/datasets/START-UMD/gtd), a comprehensive open-source database of over 180,000 terrorist attacks.
 - **Data Cleaning & Preprocessing:**
   - A dedicated preprocessing script was developed to handle the raw 155 MB dataset.
   - **Column Selection:** Out of 135 columns, only 15 relevant columns were selected to optimize performance.
@@ -79,4 +77,4 @@ To run this project on your own machine, follow these steps:
 
 ## 👤 Contact
 
-Muhammad Tahir - [LinkedIn]([YOUR-LINKEDIN-URL-HERE])
+Muhammad Tahir - [LinkedIn]([https://www.linkedin.com/in/muhammad-tahir-data/])
